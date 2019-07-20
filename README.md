@@ -31,11 +31,11 @@ https://habr.com/company/mailru/blog/425821/
 
 # Шпаргалки
 
-* [ BASH ](https://github.com/Dmitriy-8-Kireev/web-development/tree/master/bash)  – шпаргалка.
-* [ GIT ](https://github.com/Dmitriy-8-Kireev/web-development/blob/master/git/readme.md)  –  шпаргалка.
-* [ NPM ](https://github.com/Dmitriy-8-Kireev/web-development/tree/master/npm)  –  шпаргалка.
-* [ YARN ](https://github.com/areai51/yarn-cheatsheet)  –  шпаргалка.
-* [DevTools](http://anti-code.com/devtools-cheatsheet/)  –  шпаргалка.
+* [ BASH ](https://github.com/Dmitriy-8-Kireev/web-development/tree/master/bash)
+* [ GIT ](https://github.com/Dmitriy-8-Kireev/web-development/blob/master/git/readme.md)  
+* [ NPM ](https://github.com/Dmitriy-8-Kireev/web-development/tree/master/npm) 
+* [ YARN ](https://github.com/areai51/yarn-cheatsheet) 
+* [DevTools](http://anti-code.com/devtools-cheatsheet/) 
 
 
 # CODESANDBOX
