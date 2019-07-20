@@ -29,6 +29,23 @@ https://habr.com/company/mailru/blog/425821/
 
 📖 [Бесплатные темы для Bootstrap](https://bootswatch.com/) [**EN**] 
 
+# Шпаргалки
+
+# Шпаргалка по Bash
+https://github.com/Dmitriy-8-Kireev/web-development/tree/master/bash
+
+# Шпаргалка по консольным командам Git
+https://github.com/Dmitriy-8-Kireev/web-development/blob/master/git/readme.md
+
+# Шпаргалка по NPM
+https://github.com/Dmitriy-8-Kireev/web-development/tree/master/npm
+
+# Шпаргалка по YARN
+https://github.com/areai51/yarn-cheatsheet
+
+# Шпаргалка по DevTools
+http://anti-code.com/devtools-cheatsheet/
+
 # CODESANDBOX
 ### Проекты
 * [Fetch_ Api_ Experiments](https://codesandbox.io/embed/fetch-api-experiments-e6yrw?fontsize=14)  – упрощённый вариант.
