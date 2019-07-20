@@ -31,6 +31,6 @@ https://habr.com/company/mailru/blog/425821/
 
 # CODESANDBOX
 ### Проекты
-* [Fetch_ Api_ Experiments](https://codesandbox.io/embed/store-budget-7bj49?fontsize=14)  – упрощённый вариант.
-* [store-budget](https://github.com/Dmitriy-8-Kireev/jest) [**ENG**] –  готовый образец.
+* [Fetch_ Api_ Experiments](https://codesandbox.io/embed/fetch-api-experiments-e6yrw?fontsize=14)  – упрощённый вариант.
+* [store-budget](https://codesandbox.io/embed/store-budget-7bj49?fontsize=14) [**ENG**] –  готовый образец.
 
