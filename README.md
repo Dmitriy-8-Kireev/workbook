@@ -29,12 +29,8 @@ https://habr.com/company/mailru/blog/425821/
 
 📖 [Бесплатные темы для Bootstrap](https://bootswatch.com/) [**EN**] 
 
-# REDUX ТЕСТИРОВАНИЕ
-### JEST
-* [Документация по JEST](https://jestjs.io/docs/ru/getting-started) [**RU**] – главный источник.
-* [JEST](https://github.com/Dmitriy-8-Kireev/jest) [**ENG**] –  facebook/jest.
-* [Основы тестирования](https://gist.github.com/Dmitriy-8-Kireev/e9da6f4612d0efd9a2025e690ba43727) [**RU**] –  Методология    TDD,JEST,ENZYME.
+# CODESANDBOX
+### Проекты
+* [Fetch_ Api_ Experiments](https://codesandbox.io/embed/store-budget-7bj49?fontsize=14)  – упрощённый вариант.
+* [store-budget](https://github.com/Dmitriy-8-Kireev/jest) [**ENG**] –  готовый образец.
 
-* [Unit тестирование ](https://maxpfrontend.ru/vebinary/unit-testirovanie-redux-ekshenov-i-redyuserov/) [**RU**] – redux экшенов и редьюсеров.
-* [Тестирование компонентов](https://maxpfrontend.ru/vebinary/testirovanie-komponentov-s-pomoschyu-jest-enzyme/) [**RU**] –  с помощью jest и enzyme.
-* [Примеры написания тестов](https://redux.js.org/recipes/writing-tests) [**ENG**] –  с помощью jest.
