@@ -45,5 +45,6 @@ https://habr.com/company/mailru/blog/425821/
 * [Search-serial](https://codesandbox.io/embed/search-serials-s4sd4?fontsize=14)  –  готовый образец.
 * [Roller-store](https://codesandbox.io/embed/roller-store-s30qi?fontsize=14)  –  готовый образец.
 * [Starwars-API](https://codesandbox.io/embed/starwars-api-29ixu?fontsize=14)  –  готовый образец.
+* [Highcharts React Demo](https://codesandbox.io/embed/highcharts-react-demo-f20q2?fontsize=14)  –  сырой пример реализации.
 
 
