@@ -31,8 +31,8 @@ https://habr.com/company/mailru/blog/425821/
 
 # Шпаргалки
 
-* [ Bash ](https://github.com/Dmitriy-8-Kireev/web-development/tree/master/bash)  – шпаргалка.
-* [ Git ](https://github.com/Dmitriy-8-Kireev/web-development/blob/master/git/readme.md)  –  шпаргалка.
+* [ BASH ](https://github.com/Dmitriy-8-Kireev/web-development/tree/master/bash)  – шпаргалка.
+* [ GIT ](https://github.com/Dmitriy-8-Kireev/web-development/blob/master/git/readme.md)  –  шпаргалка.
 * [ NPM ](https://github.com/Dmitriy-8-Kireev/web-development/tree/master/npm)  –  шпаргалка.
 * [ YARN ](https://github.com/areai51/yarn-cheatsheet)  –  шпаргалка.
 * [DevTools](http://anti-code.com/devtools-cheatsheet/)  –  шпаргалка.
