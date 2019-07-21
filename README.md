@@ -4,8 +4,6 @@
 * [ GIT ](https://github.com/Dmitriy-8-Kireev/web-development/blob/master/git/readme.md)  
 * [ NPM ](https://github.com/Dmitriy-8-Kireev/web-development/tree/master/npm) 
 * [ YARN ](https://github.com/areai51/yarn-cheatsheet) 
-* [DevTools](http://anti-code.com/devtools-cheatsheet/) 
-
 
 # CODESANDBOX
 ### Проекты
