@@ -46,9 +46,9 @@ https://habr.com/company/mailru/blog/425821/
 * [Roller-store](https://codesandbox.io/embed/roller-store-s30qi?fontsize=14)  –  готовый образец.
 * [Starwars-API](https://codesandbox.io/embed/starwars-api-29ixu?fontsize=14)  –  готовый образец.
 ### Проекты c Highcharts
-* [Highcharts React Demo](https://codesandbox.io/embed/highcharts-react-demo-f20q2?fontsize=14)  –  сырой пример реализации.
-* [Highcharts FORM Demo](https://github.com/Dmitriy-8-Kireev/react-feedback-form)  –  норм реализация.
-* [Highcharts SELECT Demo](https://codesandbox.io/embed/project1-rcemk?fontsize=14)  –  норм реализация.
+* [Highcharts React Demo](https://codesandbox.io/embed/highcharts-react-demo-f20q2?fontsize=14)  –  сырой пример реализации. CS
+* [Highcharts FORM Demo](https://github.com/Dmitriy-8-Kireev/react-feedback-form)  –  норм реализация. Git
+* [Highcharts SELECT Demo](https://codesandbox.io/embed/project1-rcemk?fontsize=14)  –  норм реализация. CS
 
 
 
