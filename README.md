@@ -1,3 +1,10 @@
+# Статьи по внедрению Highcharts в React/Redux 
+ 
+📖 [Сборник статей с блога команды Highcharts](https://www.highcharts.com/blog/?s=React) [**EN**].
+
+📖 [Документация по Api Highcharts](https://api.highcharts.com/highcharts/) [**EN**] c примерами.
+
+
 # Шпаргалки
 
 * [ BASH ](https://github.com/Dmitriy-8-Kireev/web-development/tree/master/bash)
@@ -23,9 +30,6 @@
 ### Для поиска актуальных библиотек
 * [npm](https://www.npmjs.com/)  
 
-# Статьи по внедрению Highcharts в React/Redux 
- 
-📖 [Сборник статей с блога команды Highcharts](https://www.highcharts.com/blog/?s=React) [**EN**] 
-📖 [Документация по Api Highcharts](https://api.highcharts.com/highcharts/) [**EN**] c примерами.
+
 
 
