@@ -59,4 +59,6 @@ https://habr.com/company/mailru/blog/425821/
 # Статьи по внедрению Highcharts в React/Redux 
  
 📖 [Сборник статей с блога команды Highcharts](https://www.highcharts.com/blog/?s=React) [**EN**] 
+📖 [Документация по Api Highcharts](https://api.highcharts.com/highcharts/) [**EN**] c примерами.
+
 
