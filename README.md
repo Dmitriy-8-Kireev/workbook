@@ -49,6 +49,9 @@ https://habr.com/company/mailru/blog/425821/
 * [Highcharts React Demo](https://codesandbox.io/embed/highcharts-react-demo-f20q2?fontsize=14)  –  сырой пример реализации. CS
 * [Highcharts FORM Demo](https://github.com/Dmitriy-8-Kireev/react-feedback-form)  –  норм реализация. Git
 * [Highcharts SELECT Demo](https://codesandbox.io/embed/project1-rcemk?fontsize=14)  –  норм реализация. CS
+### Проекты c готовыми решениями авторизации на React/Redux
+* [TEST Demo](https://codesandbox.io/embed/test-realizovan-funkcional-chastichno-w6ghq?fontsize=14)  –  готовый образец.
+
 
 
 # Статьи по внедрению Highcharts в React/Redux 
