@@ -53,11 +53,8 @@ https://habr.com/company/mailru/blog/425821/
 * [TEST Demo](https://codesandbox.io/embed/test-realizovan-funkcional-chastichno-w6ghq?fontsize=14)  –  готовый образец.
 * [TEST2 Demo](https://codesandbox.io/embed/reduxaxios-explanations-gvhz6?fontsize=14)  –  готовый образец.
 * [Авторизация Demo](https://codesandbox.io/embed/react-redux-example-app-3u6p4?fontsize=14)  –  рабочий прототип.
-
-
- 
-
-
+### Для поиска актуальных библиотек
+* [npm](https://www.npmjs.com/)  
 
 # Статьи по внедрению Highcharts в React/Redux 
  
