@@ -48,6 +48,7 @@ https://habr.com/company/mailru/blog/425821/
 ### Проекты c Highcharts
 * [Highcharts React Demo](https://codesandbox.io/embed/highcharts-react-demo-f20q2?fontsize=14)  –  сырой пример реализации.
 * [Highcharts FORM Demo](https://github.com/Dmitriy-8-Kireev/react-feedback-form)  –  норм реализация.
+* [Highcharts SELECT Demo](https://codesandbox.io/embed/project1-rcemk?fontsize=14)  –  норм реализация.
 
 
 
