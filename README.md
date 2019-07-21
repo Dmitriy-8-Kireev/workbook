@@ -18,7 +18,7 @@
 * [Store-budget](https://codesandbox.io/embed/store-budget-7bj49?fontsize=14)  –  готовый образец.
 * [Search-serial](https://codesandbox.io/embed/search-serials-s4sd4?fontsize=14)  –  готовый образец.
 * [Roller-store](https://codesandbox.io/embed/roller-store-s30qi?fontsize=14)  –  готовый образец.
-* [Starwars-API](https://codesandbox.io/embed/starwars-api-29ixu?fontsize=14)  –  реализована на высшем уровне изоляция сетевого кода от компонентов.
+* [Starwars-API](https://codesandbox.io/embed/starwars-api-29ixu?fontsize=14)  –  реализована на высшем уровне изоляция сетевого кода от компонентов. готовый образец.
 ### Проекты c Highcharts
 * [Highcharts React Demo](https://codesandbox.io/embed/highcharts-react-demo-f20q2?fontsize=14)  –  сырой пример реализации. CS
 * [Highcharts FORM Demo](https://github.com/Dmitriy-8-Kireev/react-feedback-form)  –  норм реализация. Git
