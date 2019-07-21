@@ -51,6 +51,8 @@ https://habr.com/company/mailru/blog/425821/
 * [Highcharts SELECT Demo](https://codesandbox.io/embed/project1-rcemk?fontsize=14)  –  норм реализация. CS
 ### Проекты c готовыми решениями авторизации на React/Redux
 * [TEST Demo](https://codesandbox.io/embed/test-realizovan-funkcional-chastichno-w6ghq?fontsize=14)  –  готовый образец.
+* [TEST2 Demo](https://codesandbox.io/embed/reduxaxios-explanations-gvhz6?fontsize=14)  –  готовый образец.
+ 
 
 
 
