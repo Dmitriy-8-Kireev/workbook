@@ -52,6 +52,9 @@ https://habr.com/company/mailru/blog/425821/
 ### Проекты c готовыми решениями авторизации на React/Redux
 * [TEST Demo](https://codesandbox.io/embed/test-realizovan-funkcional-chastichno-w6ghq?fontsize=14)  –  готовый образец.
 * [TEST2 Demo](https://codesandbox.io/embed/reduxaxios-explanations-gvhz6?fontsize=14)  –  готовый образец.
+* [Авторизация Demo](https://codesandbox.io/embed/react-redux-example-app-3u6p4?fontsize=14)  –  рабочий прототип.
+
+
  
 
 
