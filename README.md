@@ -51,5 +51,7 @@ https://habr.com/company/mailru/blog/425821/
 * [Highcharts SELECT Demo](https://codesandbox.io/embed/project1-rcemk?fontsize=14)  –  норм реализация. CS
 
 
-
+# Статьи по внедрению Highcharts в React/Redux 
+ 
+📖 [Сборник статей с блога команды Highcharts](https://www.highcharts.com/blog/?s=React) [**EN**] 
 
