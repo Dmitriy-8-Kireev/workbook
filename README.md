@@ -1,6 +1,6 @@
 # Статьи по внедрению Highcharts в React/Redux 
  
-📖 [Сборник статей с блога команды Highcharts](https://www.highcharts.com/blog/?s=React) [**EN**].
+📖 [Сборник статей с блога команды Highcharts](https://www.highcharts.com/blog/?s=React) [**EN**] для React.
 
 📖 [Документация по Api Highcharts](https://api.highcharts.com/highcharts/) [**EN**] c примерами.
 
