@@ -31,6 +31,7 @@
 ### Для поиска актуальных библиотек
 * [npm](https://www.npmjs.com/)  
 
-  
+  ### Чек-лист производительности фронтенда
+* [Чек-лист](https://github.com/Dmitriy-8-Kireev/Front-End-Performance-Checklist)
 
 
