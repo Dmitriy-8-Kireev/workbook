@@ -23,10 +23,9 @@
 * [Highcharts React Demo](https://codesandbox.io/embed/highcharts-react-demo-f20q2?fontsize=14)  –  сырой пример реализации. CS
 * [Highcharts FORM Demo](https://github.com/Dmitriy-8-Kireev/react-feedback-form)  –  норм реализация. Git
 * [Highcharts SELECT Demo](https://codesandbox.io/embed/project1-rcemk?fontsize=14)  –  норм реализация. CS
-### Проекты c готовыми решениями авторизации на React/Redux
-* [TEST Demo](https://codesandbox.io/embed/test-realizovan-funkcional-chastichno-w6ghq?fontsize=14)  –  готовый образец.
-* [TEST2 Demo](https://codesandbox.io/embed/reduxaxios-explanations-gvhz6?fontsize=14)  –  готовый образец.
-* [Авторизация Demo](https://codesandbox.io/embed/react-redux-example-app-3u6p4?fontsize=14)  –  рабочий прототип.
+### Набор библиотек и готовых компонентов для React/Redux
+* [React Components & Libraries](https://github.com/Dmitriy-8-Kireev/awesome-react-components)  –  кладезь полезных решений.
+
 ### Для поиска актуальных библиотек
 * [npm](https://www.npmjs.com/)  
 
