@@ -25,10 +25,12 @@
 * [Highcharts SELECT Demo](https://codesandbox.io/embed/project1-rcemk?fontsize=14)  –  норм реализация. CS
 ### Набор библиотек и готовых компонентов для React/Redux
 * [React Components & Libraries](https://github.com/Dmitriy-8-Kireev/awesome-react-components)  –  кладезь полезных решений.
+* [Awesome React](https://github.com/Dmitriy-8-Kireev/awesome-react)  –  кладезь полезных решений.
+
 
 ### Для поиска актуальных библиотек
 * [npm](https://www.npmjs.com/)  
 
-
+  
 
 
