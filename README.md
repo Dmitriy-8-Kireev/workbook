@@ -27,7 +27,7 @@
 * [React Components & Libraries](https://github.com/Dmitriy-8-Kireev/awesome-react-components)  –  кладезь полезных решений.
 * [Awesome React](https://github.com/Dmitriy-8-Kireev/awesome-react)  –  кладезь полезных решений.
 
-### Решения для SideBar для React
+### Решения для SideBar React
 * [React SideBar](https://balloob.github.io/react-sidebar/example/index.html#)  –  готовый образец.
 * [Burger Menu](https://github.com/Dmitriy-8-Kireev/react-burger-menu)  –  готовый образец.
 
